@@ -3,8 +3,7 @@
 
 <h2 align="left">.about( )</h2>
 
-I'm a backend-focused software engineer passionate about building scalable systems and working with AI/ML technologies. I enjoy working on a team, building impactful projects and contributing to open-source. 
-Looking for opportunities.
+I'm a backend-focused software engineer passionate about building scalable systems and working with AI/ML technologies. I enjoy working on a team, building impactful projects and contributing to open-source.
 
 <div align="left">
 
