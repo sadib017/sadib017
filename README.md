@@ -1,7 +1,12 @@
-<div align="center">
-  <img src="./banner.svg" alt="Sadibul Hasan — CS Researcher, Full Stack Dev" width="100%" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&width=435&lines=Hi%2C+Myself+Sadib+Hasan.;A+backend+focused+software+engineer.)](https://git.io/typing-svg)
 
+
+<div align="center">
+<sub>
+  <a href="mailto:your@email.com">email</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/yourprofile">linkedin</a> &nbsp;·&nbsp;
+  <a href="https://yourportfolio.dev">portfolio</a>
+</sub>
 <br/>
 
 ```
@@ -15,17 +20,6 @@ Right now I'm revising [ThyEMC](https://github.com/sadibul) — a thyroid nodule
 ensemble Monte Carlo framework with uncertainty-based triage — and shipping features on **GHURTEJAI**,
 a domestic travel app for Bangladesh.
 
----
-
-### research
-
-| paper | venue target | status |
-|---|---|---|
-| ThyEMC — Thyroid Nodule Classification | Medical Imaging journal | revision |
-| NCD Risk Factors @ DIU | Frontiers in Public Health | data collection |
-| KG-RoseNet — Plant Disease via GNN | Q1/Q2 journal | in progress |
-
----
 
 ### stack
 
@@ -54,10 +48,5 @@ a domestic travel app for Bangladesh.
 
 ---
 
-<div align="center">
-<sub>
-  <a href="mailto:your@email.com">email</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/yourprofile">linkedin</a> &nbsp;·&nbsp;
-  <a href="https://yourportfolio.dev">portfolio</a>
-</sub>
+
 </div>
