@@ -3,7 +3,7 @@
 
 <h2 align="left">.about( )</h2>
 
-I'm a backend-focused software engineer passionate about building scalable systems and working with AI/ML technologies. I enjoy working on a team, building real products and contributing to open-source projects.
+I'm a backend-focused software engineer passionate about building scalable systems and working with AI/ML technologies. I enjoy working on a team, building impactful projects and contributing to open-source. Looking for opportunities.
 
 <div align="left">
 
@@ -19,7 +19,7 @@ I'm a backend-focused software engineer passionate about building scalable syste
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/email-sadib%40mail.com-0D1117?style=flat-square&logo=gmail&logoColor=E2C07D&labelColor=161B22)](mailto:sadibhasan520@email.com)
+[![Email](https://img.shields.io/badge/email-sadibhasan520%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=E2C07D&labelColor=161B22)](mailto:sadibhasan520@email.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-sadibhasan-0D1117?style=flat-square&logo=linkedin&logoColor=E2C07D&labelColor=161B22)](https://www.linkedin.com/in/sadib-hasan-85082b185/)
 &nbsp;
