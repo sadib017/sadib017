@@ -24,11 +24,11 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadibul&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E2C07D&icon_color=E2C07D&text_color=8B96A5&rank_icon=github)](https://github.com/sadibul)
 &nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sadibul&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E2C07D&text_color=8B96A5)](https://github.com/sadibul)
 
 </div>
+[![Generate Snake](https://github.com/sadib017/sadib017/actions/workflows/snake.yaml/badge.svg)](https://github.com/sadib017/sadib017/actions/workflows/snake.yaml)  
 
----
+https://raw.githubusercontent.com/sadib017/sadib017/output/github-contribution-grid-snake-dark.svg
 
 
 </div>
