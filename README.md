@@ -21,24 +21,12 @@ When not training models, I'm building [GHURTEJAI](https://github.com/sadib017) 
 
 ---
 
-### stack
-
-| Domain | Tools |
-|---|---|
-| **ML / AI** | Python · PyTorch · scikit-learn · XGBoost · SHAP · Streamlit |
-| **Mobile** | Flutter · Dart |
-| **Web** | Laravel · MERN · REST APIs |
-| **Research** | Overleaf · Kaggle · MC Dropout · Deep Ensembles |
-| **Tools** | Git · Linux · VSCode |
-
----
-
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadib017&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E2C07D&icon_color=E2C07D&text_color=8B96A5&rank_icon=github)](https://github.com/sadib017)
-&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadib017&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=E2C07D&text_color=8B96A5)](https://github.com/sadib017)
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sadib017&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true"
+    height="167"
+    alt="stats graph"
+  />
 </div>
 
 <div align="center">
