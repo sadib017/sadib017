@@ -1,9 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&width=435&lines=Hi%2C+Myself+Sadib+Hasan.;A+backend+focused+software+engineer.)](https://git.io/typing-svg)
 
 
-## <h2 align="center">.about( )</h2>
+## <h2 align="left">.about( )</h2>
 
-<div align="center">
+I'm a backend-focused software engineer passionate about building scalable systems and working with AI/ML technologies. I enjoy solving complex problems and contributing to open-source projects.
+
+<div align="left">
 
 💻 Software Engineer<br><br>
 🤖 AI Engineering enthusiast<br><br>
@@ -11,9 +13,7 @@
 
 </div>
 
-I'm a backend-focused software engineer passionate about building scalable systems and working with AI/ML technologies. I enjoy solving complex problems and contributing to open-source projects.
-
----
+##
 
 <div align="center">
 
@@ -25,7 +25,7 @@ I'm a backend-focused software engineer passionate about building scalable syste
 
 </div>
 
----
+##
 
 <!-- <div align="center">
   <img
