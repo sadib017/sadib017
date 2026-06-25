@@ -26,9 +26,16 @@
 &nbsp;&nbsp;
 
 </div>
-[![Generate Snake](https://github.com/sadib017/sadib017/actions/workflows/snake.yaml/badge.svg)](https://github.com/sadib017/sadib017/actions/workflows/snake.yaml)  
+<a href="https://github.com/sadib017/sadib017/actions/workflows/snake.yaml"><img src="https://github.com/sadib017/sadib017/actions/workflows/snake.yaml/badge.svg" alt="Generate Snake" /></a>  
 
-https://raw.githubusercontent.com/sadib017/sadib017/output/github-contribution-grid-snake-dark.svg
+
+###
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/sadib017/sadib017/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 
 </div>
