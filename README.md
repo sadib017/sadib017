@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&width=435&lines=Hi%2C+Myself+Sadib+Hasan.;A+backend+focused+software+engineer.)](https://git.io/typing-svg)
 
 
-## <h2 align="left">.about( )</h2>
+<h2 align="left">.about( )</h2>
 
 I'm a backend-focused software engineer passionate about building scalable systems and working with AI/ML technologies. I enjoy working on a team, building real products and contributing to open-source projects.
 
@@ -33,6 +33,7 @@ I'm a backend-focused software engineer passionate about building scalable syste
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadib017&show_icons=true&theme=github_dark&hide_border=true)
 
+##
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sadib017&theme=tokyo-night)
 
